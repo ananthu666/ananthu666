@@ -19,7 +19,7 @@
 https://www.linkedin.com/in/ananthu-jayakumar-8254b1237
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ananthu jayakumar](https://www.linkedin.com/in/ananthu-jayakumar-8254b1237)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthu jayakumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananthu-jayakumar-8254b1237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthu jayakumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/ananthu jayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ananthu jayakumar" height="30" width="40" /></a>
 </p>
 
