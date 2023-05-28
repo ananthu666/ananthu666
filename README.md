@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ananthu666/ananthu666](https://github.com/ananthu666/ananthu666)
+- 👨‍💻 All of my projects are available at [https://github.com/ananthu666/ananthu666](https://github.com/ananthu666)
 
 - 📫 How to reach me **ananthujayakumar02@gmail.com**
 
