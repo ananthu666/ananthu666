@@ -231,7 +231,7 @@ I'm particularly interested in how AI can become a software engineering capabili
 🧩 My Engineering Approach
 
                  ┌───────────────────┐
-                 │      PROBLEM       │
+                 │      PROBLEM      │
                  └─────────┬─────────┘
                            ↓
                  ┌───────────────────┐
