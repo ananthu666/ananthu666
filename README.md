@@ -206,15 +206,15 @@ Connect → Transform → Automate → Deliver
 
 I'm particularly interested in how AI can become a software engineering capability rather than simply a chatbot interface.
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/5-stats.svg" width="48%" alt="GitHub statistics" />
-  <img src="./profile-summary-card-output/github_dark/2-repos-per-language.svg" width="48%" alt="Repositories by language" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="GitHub statistics" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Repositories by language" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-most-commit-language.svg" width="48%" alt="Most committed languages" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Most committed languages" />
   <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" alt="Productive time" />
 </p>
 
